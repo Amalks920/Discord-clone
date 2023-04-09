@@ -59,7 +59,7 @@ header svg:nth-of-type(1),header svg:nth-of-type(2){
     position: absolute;
     width: 800px;
     z-index: -1;
-    bottom:-107%;
+    bottom:-100%;
 }
 
 header svg:nth-of-type(1){   

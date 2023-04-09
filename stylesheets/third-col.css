@@ -1,0 +1,26 @@
+
+
+.third{
+    display: flex;
+    
+   
+}
+
+
+
+.third >div:nth-of-type(2) svg{
+   
+    width: 600px;
+    height: 400px;
+    padding: 0 200px;
+    padding-left:100px;
+    margin-top: 100px;
+    
+}
+
+.third >div:nth-of-type(2) {
+    padding-bottom: 5% !important;
+    
+}
+
+

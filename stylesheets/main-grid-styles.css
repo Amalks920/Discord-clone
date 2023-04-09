@@ -23,14 +23,13 @@
 /*grid columns*/
 .discord-layout-wrapper .grid-col:nth-of-type(2){
     grid-row: 2/3;
-    border: 6px solid greenyellow;
   }
 
 
   /*grid columns*/
   .discord-layout-wrapper .grid-col:nth-of-type(3){
     grid-row: 3/4;
-    border: 6px solid greenyellow;
+    background-color: rgb(246,246,246);
   }
 
 
