@@ -36,19 +36,17 @@
   /*grid columns*/
   .discord-layout-wrapper .grid-col:nth-of-type(4){
     grid-row: 4/5;
-    border: 6px solid greenyellow;
   }
 
 
   /*grid columns*/
   .discord-layout-wrapper .grid-col:nth-of-type(5){
     grid-row: 5/6;
-    border: 6px solid greenyellow;
   }
 
 
   /*grid columns*/
   .discord-layout-wrapper .grid-col:nth-of-type(6){
     grid-row: 6/7;
-    border: 6px solid greenyellow;
+    
   }

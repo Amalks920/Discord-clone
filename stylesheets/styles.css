@@ -58,7 +58,7 @@ li{
     font-family: 'Dosis', sans-serif;
 }
 
-.second h1,.third h1{
+.second h1,.third h1,.fourth h1{
     font-size: 3rem;
     width: 70%;
     font-weight: bold;
@@ -111,3 +111,11 @@ li{
     margin-top: 20px;
     width: 70%;
 }
+
+
+th{
+    color: rgb(88,101,242);
+    
+}
+
+
